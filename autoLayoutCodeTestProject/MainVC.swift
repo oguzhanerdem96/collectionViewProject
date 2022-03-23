@@ -11,8 +11,7 @@ class MainVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-    
-let imageView = UIImageView(image: #imageLiteral(resourceName: "googleImage"))
+        
 
         
         
